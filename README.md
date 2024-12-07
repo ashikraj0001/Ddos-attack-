@@ -1,4 +1,4 @@
-# V-DdoS<h1 style="color:red" align="center">What is V-DdoS tool?</h1>
+# Ddos-attack<h1 style="color:red" align="center">What is Ddos-attack tool?</h1>
 <div>
 <p style="color:black"><b><i><u>Distributed Denial Of Service</u></i> (DDoS) attacks are a subclass of denial of service (DoS) attacks. A DDoS attack involves multiple connected online devices, collectively known as a botnet, which are used to overwhelm a target website with fake traffic.</b></p>
 <img src="https://cdn.discordapp.com/attachments/870740780938047520/870740893093724240/20210731_005139.jpg">
@@ -8,7 +8,7 @@
 
 `Note: THIS TOOL IS JUST ONLY FOR EDUCATIONAL PURPOSE..GIVING DDOS ATTACKs WITHOUT SITE OWNER'S PERMISSION IS ILLEGAL.. SO USE IT AT YOUR OWN RISK.. WE'LL BE NOT RESPONSIBLE FOR ANY TYPES OF MISISSUES!!!`
 
-<h1 style="color:red" align="center"> How To Install V-DdoS In Termux</h1>
+<h1 style="color:red" align="center"> How To Install Ddos-attack In Termux</h1>
 
 <p><b>The Tool Installation Process Is Very Easy.. Just Open Your Termux & Type This Provided Commands!!</b></p>
 
@@ -17,15 +17,15 @@
 - $ `pkg install python2`
 - $ `pkg install git`
 - $ `pkg install figlet`
-- $ `git clone https://www.github.com/T34mV18rs/V-DdoS.git`
-- $ `cd V-DdoS`
-- $ `chmod +x V-DdoS.py`
-- $ `python2 V-DdoS.py`
+- $ `git clone https://github.com/ashikraj0001/Ddos-attack-.git`
+- $ `cd Ddos-attack`
+- $ `chmod +x Ddos-attack.py`
+- $ `python2 Ddos-attack.py`
 
 <p><b>To Run</b></p>
 
-- $ `cd V-DdoS`
-- $ `python2 V-DdoS.py`
+- $ `cd Ddos-attack`
+- $ `python2 Ddos-attack.py`
 
 <p><b><i> Your Tool Install & Setup Done!!..Now Go To Google & Search</i></b>`Website IP Finder`<b><i>Now  Open The 1st Wesite & Place Your Target Website Url e.g. www.biribaba.com..</b></i></p>
 
