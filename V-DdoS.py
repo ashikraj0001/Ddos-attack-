@@ -21,9 +21,9 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet V-DdoS")
 print
-print "Coded By : Mr.BL4Z3"
-print "Author   : T34m V18rs"
-print "Github   : github.com/T34mV18rs"
+print "Coded By : Mr.Ashik_Raj"
+print "Author   : ashikraj0001"
+print "Github   : github.com/ashikraj0001"
 print "Fb Page  : facebook.com/TeamVirusOfficial"
 print "FB Group : facebook.com/groups/mohinhossen"
 print "Telegram : t.me/Crackerspace"
